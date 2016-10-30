@@ -1,0 +1,20 @@
+{
+  "name": "learn-dnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "dnode": "^1.2.2",
+    "request": "^2.76.0",
+    "socks5-http-client": "^1.0.2",
+    "socks5-https-client": "^1.1.3",
+    "url": "^0.11.0"
+  }
+}

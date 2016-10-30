@@ -1,0 +1,14 @@
+[
+  {
+    "socksHost":"localhost",
+    "socksPort":9055
+  },
+  {
+    "socksHost":"localhost",
+    "socksPort":9066
+  },
+  {
+    "socksHost":"localhost",
+    "socksPort":9077
+  }
+]
